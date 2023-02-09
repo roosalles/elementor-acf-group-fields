@@ -1,9 +1,9 @@
 <?php
 /**
- * Plugin Name: Elementor ACF Group Tag Extension
- * Description: Unlock group acf fields in dynamic tags in elementor.
- * Author URI: https://github.com/umairahmed17
- * Author: Umair Ahmed
+ * Plugin Name: Elementor ACF Group Fields Extension
+ * Description: Extension for Elementor to allow ACF Groups fields to be selected as dynamic tags.
+ * Author URI: https://github.com/roosalles
+ * Author: Rodrigo Salles, Umair Ahmed (https://github.com/umairahmed17)
  */
 
 /**
